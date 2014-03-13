@@ -6,7 +6,7 @@
 
     <groupId>com.meriosol</groupId>
     <artifactId>mutasker</artifactId>
-    <version>0.1-RELEASE</version>
+    <version>0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Multi-threaded 'tasker'</name>

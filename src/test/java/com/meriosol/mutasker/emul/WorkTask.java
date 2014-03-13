@@ -26,6 +26,7 @@ public class WorkTask<T> implements Task<T> {
     }
 
     @Override
+    @SuppressWarnings("unchecked")
     public Result<T> execute() {
         Result<T> result = null;
         long startTime = System.currentTimeMillis();
